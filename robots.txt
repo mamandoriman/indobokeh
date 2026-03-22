@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://indobokeh.netlify.app/sitemap.xml
+Sitemap: https://mamandoriman.github.io/indobokeh/sitemap.xml
